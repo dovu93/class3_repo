@@ -1,7 +1,7 @@
 <h1>About Vu Do</h1>
 This will be where the image is
 <h2>This is Header number 2</h2>
-<h3>###Table of contents
+<h3>Table of contents
 
  * Life
 
