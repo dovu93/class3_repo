@@ -1,4 +1,4 @@
-#About Vu Do
+<h1>About Vu Do
 This will be where the image is
 ##This is Header number 2
 ###Table of contents
