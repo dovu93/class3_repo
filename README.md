@@ -7,13 +7,13 @@
 ## This is Header number 2
 ### Table of contents
 
- * Code 
+ * [Code](https://github.com/dovu93/class3_repo/tree/master/code) 
 
- * Data 
+ * [Data] (https://github.com/dovu93/class3_repo/tree/master/data)
 
- * Images 
+ * [Images] (https://github.com/dovu93/class3_repo/tree/master/images)
 
- * References
+ * [References](https://github.com/dovu93/class3_repo/tree/master/references)
  
 
  My name is Vu and my background is in HR. I also like sushi
