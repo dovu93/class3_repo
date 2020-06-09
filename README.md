@@ -6,4 +6,8 @@
    * I like sushi
    1. Does this add numbers with bullets?
    2. testing
+<h1>This is an H1 Header</h1>
+This will be where the image is
+<h2>This is Header number 2</h2>
+<h3>This is Header number 3</h3>
   
